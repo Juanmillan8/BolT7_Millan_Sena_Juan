@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="aplicacion.CitaConfirmada"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="aplicacion.PrimeraVentana"/>
+    <fullyQualifiedTypeName name="javax.swing.ToolTipManager"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.VoiceStatus"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.Synthesizer"/>
+    <fullyQualifiedTypeName name="java.applet.AudioClip"/>
+    <fullyQualifiedTypeName name="java.applet.Applet"/>
+    <fullyQualifiedTypeName name="java.awt.EventQueue"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.AudioSystem"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.AudioInputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.Clip"/>
+</qualifiedTypeNameHistroy>
